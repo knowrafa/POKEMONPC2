@@ -6,10 +6,10 @@ Aplicativo oriundo de um trabalho final de PC2
 
 Passos para executar o código:
 
-1º Extraia os arquivos;
-2º Abra o terminal e execute o comando "gcc main.c poke.c";
-3º Em seguida, execute "./a.out" no terminal.
-4º Batalhe!
+    1º Extraia os arquivos;
+    2º Abra o terminal e execute o comando "gcc main.c poke.c";
+    3º Em seguida, execute "./a.out" no terminal.
+    4º Batalhe!
 
 
 
